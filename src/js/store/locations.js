@@ -110,3 +110,6 @@ class Locations {
 const locations = new Locations(api, { formateDate });
 
 export default locations;
+
+//test//
+//bnfj//
